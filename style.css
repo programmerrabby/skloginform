@@ -1,0 +1,128 @@
+body{
+	
+	
+	background-image:url(imags/bg.jpg);
+
+	background-size:100%;
+	
+}
+.From{
+	
+	width:700px;
+	margin:100px auto;
+	padding:20px;
+
+	background:rgba(0,0,0, .4);
+	border-radius:5px;
+	padding:40px 20px;
+}
+
+
+
+
+.From input{
+	
+	border:2px solid yellow;
+	width:100%;
+	display:block;
+	font-size:20px;
+	background:transparent;
+	padding:5px;
+	color:pink;
+	border-radius:5px;
+	
+	box-sizing: border-box;
+}
+
+
+
+.From label{
+	display:block;
+	width:100%;
+	font-size:20px;
+	
+	padding:5px;
+	
+	border-radius:5px;
+	
+	
+}
+
+.From input[type=submit]{
+	
+	margin:10px auto;
+	color:black;
+	font-size:20px;
+	
+	width:200px;
+
+	border:2px solid green;
+	cursor:pointer;
+	
+}
+
+.From p{
+	
+	font-size:20px;
+	color:orange;
+	
+	
+}
+
+.From p a{
+	color:#00d2d3;
+	
+
+	
+	
+}
+
+
+
+h2{
+	
+	
+	background:#2ecc71;
+	margin:0 auto;
+	text-align:center;
+	padding:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
